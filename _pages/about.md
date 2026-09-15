@@ -9,9 +9,9 @@ profile:
   image: prof_pic_jpm.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Universitat Pompeu Fabra</p>
+    <p>Universitat Autònoma de Barcelona</p>
     <p>Barcelona, Spain</p>
-    <p>robert.wojciechowski@upf.edu</p>
+    <p>robert.wojciechowski@uab.cat</p>
 
 news: false # includes a list of news items
 selected_papers:  false # includes a list of papers marked as "selected={true}"
