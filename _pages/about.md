@@ -9,7 +9,7 @@ profile:
   image: prof_pic_jpm.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>robert.wojciechowski@uab.cat</p>
+    <p>robert.wojciechowski@bse.eu</p>
 
 news: false # includes a list of news items
 selected_papers:  false # includes a list of papers marked as "selected={true}"
