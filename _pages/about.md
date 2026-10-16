@@ -10,6 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>robert.wojciechowski@bse.eu</p>
+    <p> Av. de l'Eix Central, b2, 08193 Cerdanyola del Vallès, Barcelona<p>
+    <p> UAB · B3-1106 · Bellaterra <p>
 
 news: false # includes a list of news items
 selected_papers:  false # includes a list of papers marked as "selected={true}"
